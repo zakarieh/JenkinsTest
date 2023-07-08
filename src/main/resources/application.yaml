@@ -1,0 +1,5 @@
+
+server:
+  error:
+    include-binding-errors:
+  port: 8081
